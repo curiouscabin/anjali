@@ -16813,4 +16813,7 @@ label.checkbox { padding-left: 20px; }
 	animation-name: fadeOutUpSmall;
 }
 
-
+.box1 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
